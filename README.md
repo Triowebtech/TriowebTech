@@ -17,7 +17,7 @@ The website includes the following sections:
 Whenever someone submits the **contact** or **career forms**, an email notification is sent to the company so they can respond quickly.
 
 Check out the live demo:
-🌐 [TriowebTech Website](https://triowebtech.github.io/TriowebTech/)
+🌐 [TriowebTech Website](https://github.com/Triowebtech/TriowebTech.git)
 
 ---
 
