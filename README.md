@@ -1,61 +1,15 @@
-# Triowebtech Website
+# IT-Company-Website
 
 ## Overview
 
-**Triowebtech Website** is a modern, responsive website built using **HTML, CSS, Bootstrap, and JavaScript**. It works perfectly on **all devices**, including desktops, tablets, and smartphones.
+The project “IT Company Website” is a responsive website made using HTML, CSS, Bootstrap and JavaScript. As it is responsive, it works well on all devices. The website includes modules like About, Services, Portfolio, Team, Career, Contact and FAQ. Whenever anyone submits the contact form or career form, an email is sent on company’s email id so that they get notified about it and can communicate with that person soon. The website contains all the modules that meet the project requirement and is doing all the work accurately.
 
-The website includes the following sections:
+## Website Link
 
-* **About** – Information about the company
-* **Services** – Offered services
-* **Portfolio** – Showcase of work/projects
-* **Team** – Team members with roles
-* **Career** – Job application form
-* **Contact** – Contact form with email notifications
-* **FAQ** – Frequently asked questions
+Go check this website!!
+https://priyansh42.github.io/IT-Company-Website/
 
-Whenever someone submits the **contact** or **career forms**, an email notification is sent to the company so they can respond quickly.
+##
 
-Check out the live demo:
-🌐 [TriowebTech Website](https://github.com/Triowebtech/TriowebTech.git)
-
----
-
-## Features
-
-* Fully **responsive design** using Bootstrap
-* Modern and clean UI
-* Functional **contact & career forms** (requires PHP Mailer setup locally)
-* Easily customizable sections
-* SEO-friendly structure
-
----
-
-## Installation / Local Setup
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Triowebtech/TriowebTech.git
-```
-
-2. Open the project in **XAMPP** or **WAMP** to run PHP scripts.
-3. Configure **sender email credentials** in `mailing/mailingvariables.php`.
-4. Set the **receiver email address** in `contactme.php` and `careers.php`.
-5. Provide the path to the **tmp-uploads folder** in `careers.php` for storing uploaded files.
-
----
-
-## Technologies Used
-
-* HTML5
-* CSS3
-* Bootstrap 5
-* JavaScript
-* PHP (for Mailer)
-
----
-
-## Contact
-
-For any questions, contact: **[TriowebTech3@gmail.com](mailto:TriowebTech3@gmail.com)**
+__NOTE: Please be aware that the PHP Mailer feature is not functional on the deployed website. To utilize it, you'll need to download the entire project and run it locally on your computer using XAMPP or WAMP.__
+__Additionally, you'll have to set up the sender's credentials in the 'mailing/mailingvariables.php' file. In the 'contactme.php' and 'careers.php' files, you should specify the receiver's email address. Don't forget to provide the path to the 'tmp-uploads' folder in 'careers.php' file to store uploaded files.__
